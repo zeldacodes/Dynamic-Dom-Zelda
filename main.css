@@ -1,0 +1,23 @@
+header {
+    color: pink;
+    font-style: italic;
+    font-family: cursive;
+}
+
+button {
+    color: pink;
+    display: flex;
+}
+
+li {
+    color: pink;
+    list-style: none;
+}
+
+input {
+    border-color: pink;
+}
+
+form {
+    text-align:inherit;
+}
